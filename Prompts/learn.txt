@@ -1,0 +1,25 @@
+I want to learn the topic [TOPIC NAME] in SQL from scratch in a clear and practical way.
+
+Please explain the concept in simple terms first, then gradually go deeper into how it works internally.
+
+Cover the following:
+
+What the concept is and why it is used
+
+Real-world use cases
+
+Syntax explanation with breakdown
+
+Multiple examples with sample tables and data
+
+Query outputs for each example
+
+Common mistakes and edge cases
+
+Differences from similar SQL concepts (if any)
+
+Interview-focused questions related to this topic
+
+Best practices and performance considerations
+
+Please make the explanation structured, beginner-friendly, and practical, as if you are teaching in a real SQL class.
