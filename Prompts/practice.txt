@@ -1,0 +1,33 @@
+I want to test my knowledge in [TOPIC NAME] in SQL.
+
+Please act like an interviewer or SQL instructor and create a structured test for me.
+
+Follow these guidelines:
+
+Start with 2–3 basic level questions
+
+Then 3–4 intermediate level questions
+
+Finally 2–3 advanced level scenario-based questions
+
+Provide proper table schemas and sample data for each question
+
+Make the questions practical and real-world focused (not just theoretical)
+
+Do NOT provide the answers initially
+
+I will write and submit my SQL queries as solutions.
+
+After I submit my answers:
+
+Evaluate my solutions
+
+Point out mistakes (if any)
+
+Suggest optimizations
+
+Share the correct answer
+
+Rate my performance level (Beginner / Intermediate / Advanced)
+
+Make the test feel like a real SQL technical interview.
